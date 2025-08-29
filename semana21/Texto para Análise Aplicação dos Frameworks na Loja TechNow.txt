@@ -1,0 +1,58 @@
+Leia o texto e preencha uma análise completa usando os três frameworks.
+
+Crie uma apresentação (slides ou planilha) com:
+Ação emergencial (OODA)
+Plano de melhoria contínua (PDCA)
+Fundamentação nas análises de dados (DDDM)
+Apresente para a turma como se fossem a equipe de dados da TechNow.
+
+
+
+Texto para Análise: Aplicação dos Frameworks na Loja TechNow
+
+A loja TechNow é uma varejista de eletrônicos que atua principalmente em vendas online. Nos últimos três meses, a empresa notou uma queda gradual na taxa de conversão do site, passando de 5% para 3,5%. Ao mesmo tempo, o volume de visitas diárias permaneceu estável, em torno de 10.000 visitantes únicos por dia.
+Um levantamento interno mostrou que a maior queda ocorreu nas páginas de produtos de smartphones, que tiveram um aumento no tempo médio de carregamento de 5 segundos para 9 segundos. Além disso, análises de dados apontam que o abandono de carrinho aumentou 20% no último trimestre, especialmente nos dispositivos móveis.
+Para enfrentar esses desafios, a equipe de dados da TechNow coletou métricas detalhadas, como tempo de carregamento por página, taxa de cliques em botões de “comprar”, e feedbacks de usuários através de pesquisas rápidas no site.
+Com base nesses dados, a equipe de marketing lançou uma campanha relâmpago com promoções exclusivas para smartphones, visando recuperar a conversão no prazo de uma semana. Paralelamente, a equipe de TI iniciou um projeto para otimizar o desempenho do site, com metas de reduzir o tempo de carregamento das páginas para menos de 3 segundos.
+Os gestores acompanharão diariamente os indicadores para tomar decisões rápidas e planejar melhorias a médio prazo, com ciclos contínuos de avaliação e ajustes.
+
+
+A partir do texto, extraia dados e informações para:
+Aplicar o OODA: identificar o problema, analisar o contexto, decidir uma ação rápida e agir.
+
+Aplicar o PDCA: planejar a melhoria, executar, verificar resultados e agir para ajustar.
+
+Aplicar o DDDM: basear as decisões e ações em dados confiáveis e análise detalhada.
+
+
+Etapa Perguntas:
+Observe
+- Quais são os principais problemas identificados no texto?- Quais dados objetivos foram fornecidos? (ex: conversão, tempo de carregamento, abandono de carrinho)
+Orient
+- O que os dados indicam sobre a experiência dos usuários?- Quais fatores podem estar afetando negativamente as conversões?- Como dispositivos móveis estão relacionados ao problema?
+Decide
+- Qual ação rápida você tomaria para tentar melhorar os resultados ainda nesta semana?- Como você priorizaria entre marketing e melhorias técnicas?
+Act
+- Que indicadores você usaria para medir o sucesso da sua ação?- Como aplicaria e comunicaria essa ação à equipe?
+
+
+Etapa
+Perguntas Plan:
+- Qual é o objetivo de médio prazo da empresa com base no texto?- Que melhorias precisam ser feitas no site e nos processos?- Como você organizaria um plano de ação com base nessas metas?
+Do
+- Que recursos serão necessários para executar esse plano?- Quais equipes estarão envolvidas?
+Check
+- Quais métricas você monitoraria para avaliar a eficácia da campanha e das melhorias técnicas?- Como e com que frequência você revisaria os resultados?
+Act
+- Se os resultados forem positivos, como você manteria ou expandiria as mudanças?- Se os resultados forem negativos, que ajustes você sugeriria?
+
+
+DDDM — Data-Driven Decision Making
+Perguntas-Chave
+- Quais dados fornecidos no texto foram mais relevantes para orientar as decisões?
+- Que outras informações ou dados você gostaria de ter para melhorar a análise?
+- Como a empresa pode garantir que todas as decisões estejam sendo fundamentadas em dados confiáveis?
+- Como você priorizaria ações baseando-se nos dados (ex: tempo de carregamento vs. marketing)?
+- Que tipos de dashboards ou visualizações ajudariam na análise diária dos indicadores?
+
+
