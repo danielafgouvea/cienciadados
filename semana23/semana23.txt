@@ -1,0 +1,7 @@
+Em grupos, e utilizando os aprendizados dessa semana, discuta sobre o problema a seguir:
+
+Trabalhando em um sistema como técnico em Ciência de Dados, você faz um commit com uma nova feature. 
+
+Após uma semana, sua feature sumiu do código: um colega de equipe fez outra feature para a mesma função e acabou resolvendo o conflito, descartando suas mudanças. 
+
+Essa situação te causa bastante chateação. O que você faria nessa situação? Discuta com o seu grupo e, em seguida, registre atividade e envie no AVA.
