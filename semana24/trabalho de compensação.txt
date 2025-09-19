@@ -1,0 +1,7 @@
+1. Explique o que é análise preditiva e descreva como a regressão linear pode ser utilizada para prever eventos futuros com base em dados históricos.
+
+2. O termo Big Data está associado a grandes volumes de dados. Uma das suas características é a variedade. Explique o que significa essa característica e dê exemplos de diferentes tipos de dados que ilustram essa diversidade.
+
+3. A visualização de dados é essencial para comunicar informações de forma clara e eficaz. Qual é a melhor prática a ser seguida ao criar gráficos para representar dados complexos? Justifique sua resposta.
+
+4. O aprendizado de máquina possui diferentes tipos, como supervisionado e não supervisionado. Explique o que caracteriza o aprendizado supervisionado e como ele utiliza dados rotulados para realizar previsões em novos conjuntos de dados.
