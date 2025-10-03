@@ -1,0 +1,17 @@
+1) O que é o Git e para que serve?
+ 
+2) O que é uma branch no Git?
+ 
+3) O que significa fazer um merge?
+
+4) Qual a diferença entre merge e rebase?
+ 
+5) Para que serve o comando git cherry-pick?
+ 
+6) Quando usar o git stash?
+ 
+7) Qual a principal diferença entre Git Flow e GitHub Flow?
+ 
+8) Por que é importante manter a branch main estável?
+ 
+9) Qual é uma boa prática ao nomear branches?
