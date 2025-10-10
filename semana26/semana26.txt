@@ -1,0 +1,18 @@
+S26 – Aula 2 – Registro
+Estudo de caso: otimização de produção em uma fábrica de alimentos
+Contexto:
+A fábrica de alimentos Delícias Saudáveis está enfrentando desafios para otimizar sua linha de produção de barras de cereais. A demanda por suas barras de cereais varia significativamente de acordo com as estações do ano e as campanhas de marketing. A fábrica deseja reduzir desperdícios e aumentar a eficiência de produção, garantindo que a oferta atenda à demanda de modo preciso. Para isso, a empresa criou uma equipe interdisciplinar composta por um cientista de dados, um especialista em Logística, um engenheiro de produção e um analista de marketing.
+Tarefas da equipe:
+Cientista de dados: analisar dados históricos de vendas, sazonalidade e impacto de campanhas de marketing para prever a demanda futura.
+Especialista em Logística: otimizar a cadeia de suprimentos, garantindo que os ingredientes estejam disponíveis quando for necessário.
+Engenheiro de produção: melhorar os processos de fabricação para reduzir o tempo de ciclo e minimizar desperdícios.
+Analista de marketing: desenvolver estratégias de marketing baseadas nas previsões de demanda e monitorar o impacto das campanhas sobre as vendas.
+Desafios:
+Coletar e integrar dados de diferentes fontes, incluindo vendas passadas, campanhas de marketing e dados de produção;
+Desenvolver um modelo preditivo que considere a sazonalidade e as campanhas de marketing;
+Implementar práticas de produção just-in-time para minimizar desperdícios e custos de armazenamento.
+Perguntas:
+Quais dados são necessários para o cientista de dados desenvolver um modelo preditivo de demanda e como esses dados devem ser integrados?
+Como o especialista em Logística pode utilizar as previsões de demanda para otimizar a cadeia de suprimentos e garantir a disponibilidade de ingredientes?
+Quais estratégias o engenheiro de produção pode implementar para melhorar a eficiência da linha de produção e reduzir desperdícios?
+Envie as respostas para o Ambiente Virtual de Aprendizagem (AVA) ao final.
