@@ -1,0 +1,23 @@
+1. Introdução ao Git e branches
+Pergunta: O que é o Git e para que serve?
+ Resposta: O Git é um sistema de controle de versão que registra mudanças em arquivos e facilita o trabalho em equipe no desenvolvimento de software.
+Pergunta: O que é uma branch no Git?
+ Resposta: É uma ramificação do projeto que permite desenvolver funcionalidades ou correções de forma independente da branch principal.
+Pergunta: O que significa fazer um merge?
+ Resposta: É a união das alterações de uma branch com outra, geralmente juntando o trabalho feito em uma branch de feature com a branch principal (main).
+
+2. Operações avançadas com branches
+Pergunta: Qual a diferença entre merge e rebase?
+ Resposta: O merge junta o histórico de duas branches, enquanto o rebase reorganiza os commits de uma branch para criar um histórico mais linear.
+Pergunta: Para que serve o comando git cherry-pick?
+ Resposta: Ele aplica um commit específico de outra branch sem trazer todo o histórico dela.
+Pergunta: Quando usar o git stash?
+ Resposta: Quando você precisa guardar temporariamente mudanças sem commitar, para poder trocar de branch ou continuar o trabalho depois.
+
+3. Fluxos de trabalho e melhores práticas
+Pergunta: Qual a principal diferença entre Git Flow e GitHub Flow?
+ Resposta: O Git Flow é mais estruturado, com várias branches específicas, enquanto o GitHub Flow é mais simples e direto, usando apenas branches de funcionalidades e pull requests.
+Pergunta: Por que é importante manter a branch main estável?
+ Resposta: Porque ela representa a versão principal do projeto e deve sempre estar pronta para ser usada em produção.
+Pergunta: Qual é uma boa prática ao nomear branches?
+ Resposta: Usar nomes claros e padronizados, como feature/nome-da-funcionalidade ou fix/nome-do-bug.
