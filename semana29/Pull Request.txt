@@ -1,0 +1,42 @@
+Passo a passo para criar um Pull Request
+1. Crie uma branch nova
+Você pode fazer isso pelo próprio GitHub.
+
+Pelo GitHub Desktop ou site:
+a) Vá até seu repositório.
+b) Clique em "Branch: main" no topo.
+c) Clique em “New branch” e nomeie, por exemplo, teste.
+d) Faça as alterações desejadas (por exemplo, edite o arquivo README.md).
+
+2. Faça o commit da alteração
+Após editar o arquivo:
+a) Role até o fim da página.
+b) Em Commit changes, escreva uma mensagem curta (ex: “Adicionei descrição ao README”).
+c) Clique em Commit directly to the teste branch.
+d) Clique em Commit changes.
+
+
+3. Vá até a aba “Pull Requests”
+No topo do repositório, clique em “Pull requests”.
+Depois, clique no botão “New pull request”.
+
+4. Escolha as branches
+No campo “base”, deixe main (ou master).
+No campo “compare”, selecione teste (a branch onde você fez as alterações).
+O GitHub mostrará as diferenças entre as duas versões.
+
+5. Crie o Pull Request
+Clique em “Create pull request”.
+Dê um título e uma descrição para explicar o que mudou.
+ (Exemplo: “Atualizei o README com informações do projeto.”)
+
+Clique novamente em “Create pull request” para confirmar.
+
+6. Fazer o Merge (mesclar)
+Depois que o Pull Request for criado, você verá um botão “Merge pull request”.
+Clique nele para unir sua branch teste à main.
+
+Depois clique em “Confirm merge”.
+
+
+Pronto! ✅ Suas mudanças foram aplicadas ao projeto principal.
