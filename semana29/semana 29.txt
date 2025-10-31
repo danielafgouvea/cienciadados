@@ -1,7 +1,7 @@
 🧠 Atividades
 
 Primeira etapa:
- a) Crie uma conta no github.com.
+ a) Crie uma conta no github.com. Quem tem a conta, não precisa criar outra.
  b) Crie um novo repositório chamado “MeuPrimeiroProjeto”.
  c) Adicione um arquivo chamado README.md com uma breve descrição sobre você.
 
@@ -9,5 +9,6 @@ Segunda etapa:
 1) Crie uma branch no seu repositório chamada teste.
 2) Faça uma alteração simples no arquivo README.md.
 3) Crie um Pull Request para mesclar sua branch com a principal.
+
 
 
