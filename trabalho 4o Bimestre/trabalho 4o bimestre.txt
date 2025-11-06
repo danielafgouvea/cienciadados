@@ -1,0 +1,31 @@
+Trabalho Individual – Ciência de Dados no Dia a Dia para ser entregue na próxima aula dia 14/11.
+
+Tema:
+O que é Ciência de Dados e onde ela é usada no dia a dia
+
+Orientações:
+
+1. Faça uma pesquisa simples sobre o que é **Ciência de Dados**.
+2. Explique **com suas próprias palavras** o que significa esse termo.
+3. Dê **três exemplos reais** de como a Ciência de Dados é usada no dia a dia (por exemplo: redes sociais, saúde, transporte, comércio, educação, meio ambiente).
+4. Explique **por que os dados são importantes** para tomar decisões em cada exemplo.
+5. Finalize o trabalho com uma **reflexão pessoal**: como você acha que a Ciência de Dados pode influenciar o futuro do trabalho e da sociedade?
+
+Dicas:
+
+* Use uma linguagem simples e clara.
+* O texto deve ter de **15 a 20 linhas**.
+* Você pode incluir imagens, gráficos ou exemplos de aplicativos.
+* Cite as fontes de pesquisa (sites, vídeos, livros etc.).
+
+Critérios de Avaliação:
+
+| Critério                     | Descrição                                     | Pontos   |
+| ---------------------------- | --------------------------------------------- | -------- |
+| Compreensão do tema          | Explica corretamente o que é Ciência de Dados | 2,0      |
+| Exemplos práticos            | Apresenta três exemplos bem explicados        | 3,0      |
+| Reflexão pessoal             | Mostra opinião crítica e consciente           | 2,0      |
+| Clareza e organização        | Texto bem estruturado e de fácil leitura      | 2,0      |
+| Criatividade e uso de fontes | Boa apresentação e referências confiáveis     | 1,0      |
+| **Total**                    |                                               | **10,0** |
+
