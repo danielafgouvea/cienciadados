@@ -1,0 +1,18 @@
+Vídeo sobre Markdown: https://www.youtube.com/watch?v=RkI0FdamUe8
+Vídeo sobre tomada de decisão : https://www.youtube.com/watch?v=no4MBK-vUQM
+
+Perguntas:
+
+O que é o Jupyter Notebook e para que ele é utilizado?
+(Explique com suas palavras qual é o objetivo principal dessa ferramenta.)
+
+Quais tipos de conteúdo podem ser incluídos em uma célula do Jupyter Notebook?
+(Dica: pense em códigos, textos e visualizações.)
+
+Como o Jupyter Notebook facilita o aprendizado e a comunicação entre programadores e cientistas de dados?
+(Explique por que ele é útil em aulas, projetos ou pesquisas.)
+
+Qual é a diferença entre uma célula de código e uma célula de texto (Markdown) no Jupyter Notebook?
+(Dê um exemplo do que pode ser escrito em cada tipo.)
+
+Cite duas funcionalidades extras do Jupyter Notebook que ajudam no desenvolvimento de projetos.
