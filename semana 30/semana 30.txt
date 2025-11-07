@@ -1,5 +1,6 @@
 Vídeo sobre Markdown: https://www.youtube.com/watch?v=RkI0FdamUe8
 Vídeo sobre tomada de decisão : https://www.youtube.com/watch?v=no4MBK-vUQM
+Vídeo sobre dashboard: https://www.youtube.com/watch?v=ElR77DjFQn0
 
 Perguntas:
 
@@ -14,5 +15,6 @@ Como o Jupyter Notebook facilita o aprendizado e a comunicação entre programad
 
 Qual é a diferença entre uma célula de código e uma célula de texto (Markdown) no Jupyter Notebook?
 (Dê um exemplo do que pode ser escrito em cada tipo.)
+
 
 Cite duas funcionalidades extras do Jupyter Notebook que ajudam no desenvolvimento de projetos.
