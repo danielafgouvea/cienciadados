@@ -1,0 +1,9 @@
+1 - O que são bibliotecas de Ciência de Dados?
+
+2 - Importância das bibliotecas de Ciência de Dados?
+
+3 - Quais são os principais comandos para instalar as bibliotecas e o conceito de cada uma: 
+Nympy:
+Bandas:
+Matplotlib:
+Seaborn:
