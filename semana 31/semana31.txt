@@ -1,0 +1,11 @@
+1. Crie uma função que calcule o índice de massa corporal (IMC) de uma
+pessoa. O IMC é calculado pela fórmula:
+
+       peso [kg]
+imc = ___________ 2
+      (altura [m])
+
+2. Escreva uma função chamada calcular_imc que receba dois
+argumentos, peso e altura, e retorne o valor do IMC.
+
+3. Teste a função com diferentes valores de peso e altura.
