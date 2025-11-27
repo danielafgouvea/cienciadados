@@ -1,0 +1,11 @@
+Leia o texto a seguir:
+
+A Ciência de Dados é uma área que combina matemática, estatística, programação e conhecimento sobre um assunto específico para analisar informações e tomar decisões. No dia a dia, ela é usada para prever tendências, entender o comportamento das pessoas e ajudar empresas e organizações a planejar o futuro. Um cientista de dados coleta dados, organiza, analisa e apresenta resultados de forma clara, geralmente usando gráficos e ferramentas tecnológicas.
+
+Responda:
+
+1) O que é Ciência de Dados e qual é o seu principal objetivo?
+
+2) Cite dois exemplos de como a Ciência de Dados pode ser utilizada no cotidiano.
+
+3) Por que é importante que os dados sejam organizados antes da análise?
